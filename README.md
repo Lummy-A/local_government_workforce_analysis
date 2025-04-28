@@ -47,15 +47,15 @@ The dataset contains information on **366 staff members** across various local g
 ## Key Visualizations
 
 ### Department Distribution
-![Department Distribution](images/department_distribution.png)
+![Department Distribution](Distribution_by_department.png)
 *The Environment and Education departments make up over 65% of the total workforce.*
 
 ### Response Target by Employment Duration
-![Response Target by Length of Employment](images/response_by_tenure.png)
+![Response Target by Length of Employment](Response_Target.png)
 *Performance improves with experience across all departments, with employees having 10+ years of experience showing the highest response rates.*
 
 ### Sick Days vs. Response Target
-![Sick Days vs Response Target](images/sickdays_response.png)
+![Sick Days vs Response Target](Correlation_Analysis.png)
 *A modest negative correlation exists between sick days taken and response target performance.*
 
 *Note: For more visualizations, see the complete analysis in the repository.*
@@ -72,3 +72,5 @@ The dataset contains information on **366 staff members** across various local g
 - Visualization: ggplot2, base R graphics
 - Statistical methods: Descriptive statistics, distribution analysis, correlation analysis
   
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
